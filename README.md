@@ -1,6 +1,6 @@
 ### Welcome to my Github! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fella-yschoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-ellachoi.tistory.com/)](https://dev-ellachoi.tistory.com/)[![GitHub followers](https://img.shields.io/github/followers/ella-yschoi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ella-yschoi?tab=followers)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fella-yschoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-ellachoi.tistory.com/)](https://dev-ellachoi.tistory.com/) [![GitHub followers](https://img.shields.io/github/followers/ella-yschoi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ella-yschoi?tab=followers)
 
 <br/>
 
@@ -18,7 +18,8 @@
 <br/>
 
 </div>
- </div>
+
+<br/>
 
 <p align="center">
 Check out my repos ⬇️  
