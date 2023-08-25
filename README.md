@@ -1,6 +1,6 @@
-## Frontend Developer  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Ella Yeonsu Choi
+## Frontend Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Ella Yeonsu Choi
 
-세상 모든 사람들이 어려움 없이 사용할 수 있는 웹 사이트를 만들고, 그 과정을 나누어요 🌳
+### <i>Useful to everyone in their everyday lives</i>
 
 과거에는 Marketer & CX Manager로서 사용자와 프로덕트 사이의 다리 역할을 하며 더 나은 서비스를 만드는 데에 기여했습니다. 현재는 Frontend Developer로서 기술을 결합해 사용자를 위한 웹을 만들고 있어요 👩🏻‍💻
 
