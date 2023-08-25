@@ -1,12 +1,20 @@
 ## Frontend Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Ella Yeonsu Choi
 
-### <i>Useful to everyone in their everyday lives</i>
+<i>Useful to everyone in their everyday lives</i>
 
-과거에는 Marketer & CX Manager로서 사용자와 프로덕트 사이의 다리 역할을 하며 더 나은 서비스를 만드는 데에 기여했습니다. 현재는 Frontend Developer로서 기술을 결합해 사용자를 위한 웹을 만들고 있어요 👩🏻‍💻
+> Now
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fella-yschoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-ellachoi.tistory.com/)](https://dev-ellachoi.tistory.com/) [![GitHub followers](https://img.shields.io/github/followers/ella-yschoi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ella-yschoi?tab=followers)
+- Frontend Developer
+- 기술을 결합하여 사용자 입장을 생각하는 서비스를 개발
+
+> Before
+
+- Marketer & CX Manager
+- 사용자와 서비스 사이의 다리 역할로 서비스 개선에 기여
 
 <br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fella-yschoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-ellachoi.tistory.com/)](https://dev-ellachoi.tistory.com/) [![GitHub followers](https://img.shields.io/github/followers/ella-yschoi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ella-yschoi?tab=followers)
 
 <div align=left><h4>📚 STACKS 📚</h4></div>
 
@@ -25,5 +33,5 @@
 <br/>
 
 <p align="left">
-Check out my repos ⬇️  
+⬇️ Check out my repos
 </p>
