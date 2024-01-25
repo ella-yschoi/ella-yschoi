@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hello 
 
-<p align="left" width="80%"><img width="700" alt="README" src="https://github.com/ella-yschoi/ella-yschoi/assets/123397411/fcd359be-af30-4a4a-885d-513660869187">
+<p align="left" width="100%"><img width="400" alt="README" src="https://github.com/ella-yschoi/ella-yschoi/assets/123397411/fcd359be-af30-4a4a-885d-513660869187">
 
 <br/>
 
