@@ -16,9 +16,9 @@ const updated = {
 console.log(updated);
 
 // About Tech
-const languages = ['Javascript', 'Typescript'];
-const frontend = ['HTML', 'CSS', 'React', 'StyledComponents', 'Emotion'];
-const tools = ['Slack', 'Notion', 'Figma', 'etc'];
+const languages = ['JavaScript', 'TypeScript'];
+const frontend = ['HTML', 'CSS', 'React', 'Styled-Components', 'Emotion'];
+const tools = ['I love Notion!', 'I try to love Figma..'];
 
 console.log({ languages, frontend, tools });
 ```
@@ -29,7 +29,7 @@ console.log({ languages, frontend, tools });
 
 <div>
   <!-- Resume -->
-  <a href="https://my.surfit.io/w/1744122368"><img src="https://img.shields.io/badge/Resume-ffd966?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+  <a href="https://devella.oopy.io/about"><img src="https://img.shields.io/badge/Resume-ffd966?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
   <!-- TechBlog -->
   <a href="https://devella.oopy.io/"> <img src="https://img.shields.io/badge/Tech Blog-f6b26b?style=for-the-badge&logo=notion&logoColor=white" style="margin-left: 10px; "/>
