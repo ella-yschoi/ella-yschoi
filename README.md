@@ -2,7 +2,7 @@
 
 <div>
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1dGz7IpMRYb6v8zBrm_9Ri62KqcgS2eIf/view"><img src="https://img.shields.io/badge/Resume-ffd966?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1b5ttVaEM7GFkrpdQ2AZmG0ricyouG3vT/view"><img src="https://img.shields.io/badge/Resume-ffd966?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
   <!-- TechBlog -->
   <a href="https://devella.oopy.io/posting"> <img src="https://img.shields.io/badge/Tech Blog-f6b26b?style=for-the-badge&logo=notion&logoColor=white" style="margin-left: 10px; "/>
