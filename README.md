@@ -2,7 +2,8 @@
 
 <strong>I'm a `frontend developer` who loves to write 👩🏻‍💻</strong>
 
-I used to work directly with customers, but now I focus on building software products. I enjoy explaining complex ideas in a way that's easy and fun to understand.
+I used to work directly with customers, but now I focus on building software products.<br/>
+I enjoy explaining complex ideas in a way that's easy and fun to understand.
 
 <br/>
 
@@ -20,7 +21,8 @@ Here are my latest articles:
 
 ## 👩🏻‍💻 OpenSource
 
-If you'd like to contribute to this Open Source Library, please join me! For any inquiries or suggestions, feel free to submit a [GitHub issue](https://github.com/ella-yschoi/react-simple-datepicker-calendar/issues). Your feedback is invaluable.
+If you'd like to contribute to this Open Source Library, please join me!<br/>
+For any inquiries or suggestions, feel free to submit a [GitHub issue](https://github.com/ella-yschoi/react-simple-datepicker-calendar/issues). Your feedback is invaluable.
 
 - 💻 [Simple DatePicker Calendar for React](https://github.com/ella-yschoi/react-simple-datepicker-calendar)
 
