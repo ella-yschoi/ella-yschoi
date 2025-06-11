@@ -1,9 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi, I'm Ella
 
-<strong>I'm a `frontend developer` who loves to write 👩🏻‍💻</strong>
+<strong>I'm a frontend engineer with a background in marketing, customer experience, and a deep interest in how people interact with technology.</strong><br/>
 
-I used to work directly with customers, but now I focus on building software products.<br/>
-I enjoy explaining complex ideas in a way that's easy and fun to understand.
+I specialize in building scalable, accessible, and intuitive web applications using React, TypeScript, and modern tooling. <br/>
+
+Outside of code, I care about clarity whether through clean architecture or documentation. I enjoy breaking down complex systems into understandable pieces, and fostering strong collaboration through shared language and context.<br/>
+
+I thrive at the intersection of user empathy and technical problem-solving and I’m always excited to build things that are both useful and delightful.<br/>
 
 <br/>
 
@@ -34,5 +37,4 @@ You can reach me on social media or by email:
 
 - ✏️ [Tech Blog](https://devella.oopy.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ella-yschoi)
-- 🐦 [Twitter](https://x.com/dev_ellachoi)
-- ✉️ [happymondaysu@gmail.com](mailto:happymondaysu@gmail.com)
+- ✉️ [dev.ella.choi@gmail.com](mailto:happymondaysu@gmail.com)
