@@ -1,18 +1,20 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi, I'm Ella
 
-<strong>I'm a frontend engineer with a background in marketing, customer experience, and a deep interest in how people interact with technology.</strong><br/>
+- **Frontend engineer** with a background in **marketing** and **customer experience**  
+- Passionate about how people **interact with technology**
+- Specialize in building **scalable**, **accessible**, and **intuitive** web applications using **React**, **TypeScript**
+- Value **clarity** through clean architecture and clear documentation
+- Enjoy breaking down **complex systems** into understandable pieces
+- Foster collaboration through **shared language** and **context**
+- Thrive at the intersection of **user empathy** and **technical problem-solving**
+- Love building things that are both **useful** and **delightful**
 
-I specialize in building scalable, accessible, and intuitive web applications using React, TypeScript, and modern tooling. <br/>
-
-Outside of code, I care about clarity whether through clean architecture or documentation. I enjoy breaking down complex systems into understandable pieces, and fostering strong collaboration through shared language and context.<br/>
-
-I thrive at the intersection of user empathy and technical problem-solving and I’m always excited to build things that are both useful and delightful.<br/>
 
 <br/>
 
 ## 📝 Writing
 
-Here are my latest articles:
+> Here are my latest articles:
 
 - ✏️ [Creating a Library with Headless UI](https://devella.oopy.io/b19dcc48-dad5-4fe2-9ee2-a9ed57563b09)
 - ✏️ [Developer Communication and Collaboration: A Talk with Three Developers](https://devella.oopy.io/a3a1f2c9-bd4f-44b9-9f85-6879a2c6c738)
@@ -24,16 +26,14 @@ Here are my latest articles:
 
 ## 👩🏻‍💻 OpenSource
 
-If you'd like to contribute to this Open Source Library, please join me!<br/>
-For any inquiries or suggestions, feel free to submit a [GitHub issue](https://github.com/ella-yschoi/react-simple-datepicker-calendar/issues). Your feedback is invaluable.
+> Interested in contributing? Feel free to [open an issue](https://github.com/ella-yschoi/react-simple-datepicker-calendar/issues) or send suggestions.  
+Your feedback is always welcome!
 
 - 💻 [Simple DatePicker Calendar for React](https://github.com/ella-yschoi/react-simple-datepicker-calendar)
 
 <br/>
 
 ## 📬 Social
-
-You can reach me on social media or by email:
 
 - ✏️ [Tech Blog](https://devella.oopy.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ella-yschoi)
