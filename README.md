@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi, I'm Ella
 
 - Frontend engineer passionate about user experience and delivering real business value
-- Build accessible and scalable UIs with React, TypeScript, Vite, and Vitest
+- Build accessible and scalable UIs with React, TypeScript, Vite, and Next.js
 - Enjoy automating workflows and learning fast through rapid feedback and iteration
 - Advocate for clean architecture, shared understanding, and clear documentation
 - Love building tools that are useful and fun and sharing what I learn
