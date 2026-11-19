@@ -1,11 +1,9 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi, I'm Ella
 
-Technical Support Engineer, 5 years in B2B SaaS
+Technical Support Engineer, 5 years in B2B SaaS<br/>
 Code-Level Debugging, Customer-Facing Impact
 
 <br/>
-
-## 👩🏻‍💻 OpenSource
 
 > Interested in contributing? Feel free to open an issue or send suggestions.
 Your feedback is always welcome!
