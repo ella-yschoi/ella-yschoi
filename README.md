@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi, I'm Ella
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi, I'm Ella
 
 Technical Support Engineer, 5 years in B2B SaaS<br/>
 Code-Level Debugging, Customer-Facing Impact
