@@ -1,10 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi, I'm Ella
 
-- Technical Support Engineer with 5 years in B2B SaaS, owning customer issues end-to-end
-- Resolved 600+ cases across e-commerce, SaaS, and enterprise accounts, including API failures, deployment issues, third-party integrations, and escalation workflows
-- Debug at the code level, analyze logs directly, and translate root causes into actionable steps for engineering teams
-- Drawn to early-stage startups where support infrastructure is still being built: setting up knowledge bases, defining escalation processes, and closing the loop between customers and product
-- Enjoy building side projects and contributing to open-source tools
+Technical Support Engineer, 5 years in B2B SaaS
+Code-Level Debugging, Customer-Facing Impact
 
 <br/>
 
